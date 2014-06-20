@@ -1,0 +1,23 @@
+{
+	"translation":{
+		"id":"tr",
+		"language":"Dil",
+		"turkey":"Türkiye",
+		"istanbul":"İstanbul",
+		"services":"Hizmetler",
+		"about":"Kimdir?",
+		"works":"Referanslar",
+		"contact":"İletişim",
+		"copyright":"Tüm hakları saklıdır.",
+		"software":"Yazılım",
+		"developer":"Geliştirici",
+		"webApp":"web sitesi",
+		"mobileApp":"mobil uygulama",
+		"webService":"web servisi",
+		"eCommerce":"e-ticaret",
+		"design":"tasarım",
+		"code":"program",
+		"test":"test",
+		"underConstruction":"Yapım Aşamasında"
+	}
+}
