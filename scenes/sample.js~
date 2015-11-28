@@ -17,7 +17,7 @@ breadam.scene({
 			looks:'text',
 			physics:'dynamic',
 			text:'(under construction)',
-			x:200,
+			x:100,
 			y:80,
 			mass:1
 			
